@@ -13,7 +13,7 @@ No more dependencies using [vscode](https://code.visualstudio.com/) and [docker]
 git clone git@github.com:hardenerdev/hardhat-template.git
 ```
 4. Open directory in container using `Ctrl + P`, choose `Dev Containers: Open Folder in Container...` and open repository folder.
-5. Open a terminal inside vscode (`Ctrl + Shift + ` `) and execute hardhat commands
+5. Open a terminal inside vscode (``Ctrl + Shift + ` ``) and execute hardhat commands
 
 ```bash
 npx hardhat help

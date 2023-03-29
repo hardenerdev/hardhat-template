@@ -12,5 +12,9 @@
 			]
 		}
 	},
-	"postCreateCommand": "npm i; npx hardhat node"
+	"postCreateCommand": "npm i; npx hardhat node",
+	"runArgs": [
+		"--env-file",
+		".env"
+	]
 }

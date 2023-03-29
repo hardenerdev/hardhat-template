@@ -1,5 +1,7 @@
 # hardhat-template
 
+🎉 Content based on [Blockchain Málaga Introduction to Solidity Workshop](https://blockchainmalaga.es/evento/workshop-introduccion-a-solidity/).
+
 No more dependencies using [vscode](https://code.visualstudio.com/) and [docker](https://www.docker.com/)
 
 ⛓️🤍🐋

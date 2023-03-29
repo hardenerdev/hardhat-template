@@ -32,14 +32,13 @@ cp .env.local .env
 npx hardhat compile
 npx hardhat test
 REPORT_GAS=true npx hardhat test
-npx hardhat node
 npx hardhat run scripts/deploy.js
 npx hardhat run scripts/deploy.js --network localhost
 ```
 7. Deploy to sepolia test net:
 
 ```bash
-npx hardhat run scripts/deploy.js --network localhost
+npx hardhat run scripts/deploy.js --network sepolia
 ```
 
 ⛓️🤍🐋
